@@ -1,5 +1,3 @@
-## Assignment 5,6
-
 # Question 1
 
 ## Requirement
