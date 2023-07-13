@@ -33,7 +33,7 @@
         pip install pandas matplotlib
 ```
 
-Please see the [Questions](/hw5-6-s2023.pdf) of directory for each assigned problem documentation.
+Please see the [QUESTION NOT AVAILABLE](/question.pdf) of directory for each assigned problem documentation.
 
 - Run the Question 1
  ```bash
