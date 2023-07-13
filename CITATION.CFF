@@ -1,0 +1,11 @@
+cff-version: 1.0.0
+message: "please cite it as below."
+authors:
+  - family-names: "Baral"
+    given-names: "Samrat"
+    orcid:
+title: "SuperCore "
+version: 1.0.0
+doi:
+date-released: 2023-07-12
+url: "https://github.com/samratbaral/supercore"

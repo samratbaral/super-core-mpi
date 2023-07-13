@@ -1,5 +1,6 @@
-# Question 1
+# SuperCore
 
+### SuperComputing | Algorithm | MPI
 ## Requirement
 -Make sure you have the MPI library installed on your system. If not, you can install it based on your system's package manager or download it from the MPI website [MPI Library](https://www.mpi-forum.org/).
 

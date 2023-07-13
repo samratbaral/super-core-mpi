@@ -6,3 +6,8 @@
 /output_3a.csv
 /output_3b.csv
 /output_4.txt
+/venv
+/.venv
+/.test.DS_Store
+/.test
+/test.dSYS
